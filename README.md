@@ -1,6 +1,5 @@
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Juliano
  
 <!--
 **julianox5/julianox5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
